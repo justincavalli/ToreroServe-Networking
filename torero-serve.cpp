@@ -6,7 +6,7 @@
  * 	1. The port number on which to bind and listen for connections
  * 	2. The directory out of which to serve files.
  *
- * Author 1:
+ * Author 1: Justin Cavalli, jcavalli@sandiego.edu
  * Author 2: Chadmond Wu, cwu@sandiego.edu
  */
 
